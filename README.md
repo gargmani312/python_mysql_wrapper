@@ -1,5 +1,5 @@
-"""
-    A very simple wrapper for MySQLdb
+
+## A very simple wrapper for MySQLdb
 
     Methods:
         getOne() - get a single row
@@ -13,4 +13,3 @@
         delete() - delete rows
         query()  - run a raw sql query
         leftJoin() - do an inner left join query and get results
-"""
