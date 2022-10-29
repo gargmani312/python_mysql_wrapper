@@ -15,9 +15,6 @@
         leftJoin() - do an inner left join query and get results
 
     License: GNU GPLv2
-
-    Kailash Nadh, http://nadh.in
-    May 2013
 """
 
 import MySQLdb
